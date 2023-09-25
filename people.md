@@ -44,7 +44,7 @@ permalink: /people/
         <img class="center" src="/assets/wei_shiang_wung_profile.jpg" alt="Wei-Shiang Wung" width="100" height="100"/>
         <h5 style="text-align: center;">Wei-Shiang Wung</h5>
         <img class="center" src="/assets/calvin_kranig_profile.jpg" alt="Calvin Kranig" width="100" height="100"/>
-        <h5 style="text-align: center;">Calvin Kranig</h5>
+        <h5 style="text-align: center;"><a href="https://calvinkranig.github.io/">Calvin Kranig</a></h5>
     </div>
 
 </div>
