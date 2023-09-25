@@ -3,7 +3,7 @@
   
     <div class="wrapper">
   
-      <h2 class="footer-heading">{{ site.title | escape }}</h2>
+      <h2 class="footer-heading" style="color:rgb(40, 160, 0)">{{ site.title | escape }}</h2>
   
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -17,18 +17,11 @@
               <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
               {%- endif -%}
           </ul>
+          <img src="/assets/nsf_logo.jpg" alt="NSF Logo" width="50" height="50"/>
         </div>
   
         <div class="footer-col footer-col-2">
           {%- include social.html -%}
-        </div>
-  
-        <div class="footer-col footer-col-3">
-          <p>{{- site.description | escape -}}</p>
-        </div>
-
-        <div class="footer-col footer-col-4">
-            <img src="/assets/nsf_logo.jpg" alt="NSF Logo" width="50" height="50"/>
         </div>
       </div>
   
