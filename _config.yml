@@ -20,8 +20,9 @@
 
 title: everDNS
 #email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Project Description TODO
+#description: >- # this means to ignore newlines until "baseurl:"
+#  everDNS is apart of a research program that is focused on developing techniques for compiling a  comprehensive census
+#  of the contents of the global DNS
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
