@@ -12,5 +12,5 @@ The first component of this project will investigate techniques for assembling t
 The techniques we create will enable generation of data sets that will advance scientific understanding of the DNS. It is expected that the insights gained through this research will enable methods for ensuring a more robust, manageable, and better performing DNS. Given the critical role of DNS in the Internet, this project has the potential to positively impact society as a whole. Research results will be disseminated by publishing in respected academic conferences and workshops, and all software and data artifacts will be made available to the community. 
 
 <h6>
-This material is based upon work supported by the National Science Foundation under Grant Nos. 2312709-2312711 and 2319367-2319639. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+This material is based upon work supported by the National Science Foundation under Grant Nos. 2312709-2312711. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
 </h6>
