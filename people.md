@@ -33,7 +33,7 @@ permalink: /people/
         <h1 style="text-align: center;">Professors</h1>
         <img class="center" src="/assets/paul_barford_profile.png" alt="Paul Barford" width="100" height="100"/>
         <h5 style="text-align: center;"><a href="https://pages.cs.wisc.edu/~pb/">Paul Barford, University of Wisconsin Madison</a></h5>
-        <img class="center" src="/assets/joel_summers_profile.jpg" alt="Joel Summers" width="100" height="100"/>
+        <img class="center" src="/assets/joel_summers_profile.jpg" alt="Joel Sommers" width="100" height="100"/>
         <h5 style="text-align: center;"><a href="https://cs.colgate.edu/~jsommers/">Joel Sommers, Colgate University</a></h5>
         <img class="center" src="/assets/mark_crovella_profile.png" alt="Mark Crovella" width="100" height="100"/>
         <h5 style="text-align: center;"><a href="https://www.cs.bu.edu/fac/crovella/">Mark Crovella, Boston University</a></h5>
