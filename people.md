@@ -47,6 +47,7 @@ permalink: /people/
         <h5 style="text-align: center;"><a href="https://calvinkranig.github.io/">Calvin Kranig, University of Wisconsin-Madison</a></h5>
         <h5 style="text-align: center;">Yabesi Witinya, Colgate University</h5>
         <h5 style="text-align: center;">Emmett Hintz, Colgate University</h5>
+        <h5 style="text-align: center;">Renzo Cruzado, Colgate University</h5>
     </div>
     
 
